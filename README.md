@@ -1,9 +1,10 @@
 ## I am Zhao He 👋
 
 关于我|About me
-教育经历：2021-2025  哈尔滨工业大学(Harbin Institute of Technology)  数学与应用数学  理学学士
 
-         2021-2025  哈尔滨工业大学(Harbin Institute of Technology)   智能信息工程    辅修学士
+教育经历：2021-2025  哈尔滨工业大学(Harbin Institute of Technology)  数学与应用数学  理学学士    毕业论文：《基于最优传输的单细胞转录组与免疫组数据整合算法》
+
+         2021-2025  哈尔滨工业大学(Harbin Institute of Technology)   智能信息工程    辅修学士    毕业论文：《X波段雷达海杂波抑制算法》
          
          2025-       哈尔滨工业大学(Harbin Institute of Technology)  统计学          博士
 
