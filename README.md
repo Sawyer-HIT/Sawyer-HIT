@@ -1,6 +1,6 @@
 ## I am Zhao He 👋
 
-关于我|About me
+**<font color="red">关于我|About me</font>**
 
 **<font color="red">教育经历</font>**：
 
