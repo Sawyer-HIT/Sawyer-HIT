@@ -8,7 +8,7 @@
 
 2021-2025  哈尔滨工业大学(Harbin Institute of Technology)   智能信息工程    辅修学士    毕业论文：《X波段雷达海杂波抑制技术》
          
-2025-       哈尔滨工业大学(Harbin Institute of Technology)  统计学          理学博士
+2025-      哈尔滨工业大学(Harbin Institute of Technology)  统计学          理学博士
 
 **<font color="red">研究方向</font>**：单细胞组学，生物信息学，生物统计学
 
