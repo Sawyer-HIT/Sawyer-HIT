@@ -50,7 +50,7 @@ I am a PHD student in **Harbin Institute of Technology**.My research focus on **
 
 1. **何昭**, 亓晶, 靳水林.  *一种单细胞转录组与免疫组库的整合方法*  **哈尔滨工业大学学报**, 2025. [doi](https://doi.org/10.11918/202509121)
    
-2.Longfei Tang, Shutong Xiao, **Zhao He**, Lu Ba, Yashu Xu, Yuhui Feng, Yiyuan Guo, Xiaoran Shi, jing Qi. *GMSA: A Graph Matching and Point Cloud Registration-Based Method for Spatial Transcriptomics Data Alignment*.  **Journal of Computational Biology**  2026.[doi](https://doi.org/10.1177/15578666261462952)
+2. Longfei Tang, Shutong Xiao, **Zhao He**, Lu Ba, Yashu Xu, Yuhui Feng, Yiyuan Guo, Xiaoran Shi, jing Qi. *GMSA: A Graph Matching and Point Cloud Registration-Based Method for Spatial Transcriptomics Data Alignment*.  **Journal of Computational Biology**  2026.[doi](https://doi.org/10.1177/15578666261462952)
 
 ## 📫 Contact Me
 
