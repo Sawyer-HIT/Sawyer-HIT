@@ -40,6 +40,8 @@ I am a PHD student in **Harbin Institute of Technology**.My research focus on **
 
 ![Python](https://img.shields.io/badge/Python-blue)  ![R](https://img.shields.io/badge/R-red)  ![C](https://img.shields.io/badge/C-yellow)
 
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sawyer-HIT&layout=compact&langs_count=8&hide_border=true&bg_color=00000000)](https://github.com/stats-organization/github-stats-extended)
+
 ### 🌐Language
 
 ![Chinese](https://img.shields.io/badge/Chinese-Native-DE2910?style=flat-square)  ![English](https://img.shields.io/badge/English-Proficient-012169?style=flat-square) ![French](https://img.shields.io/badge/Français-Proficient-0055A4?style=flat-square)
