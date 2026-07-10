@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:25b912041@stu.hit.edu.cn">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact_Me-2C5364?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="YOUR_GOOGLE_SCHOLAR_URL">
@@ -145,15 +145,47 @@ transcriptomics using paired single-cell immune-repertoire data.
 
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
+## 📚 Selected Publications
+
+1. **YOUR NAME**, Author B, Author C.  
+   *Title of the article.* Journal, Year.
+
+2. Author A, **YOUR NAME**, Author C.  
+   *Title of the article.* Journal, Year.
+
+3. **YOUR NAME**, Author B.  
+   *Title of the preprint.* bioRxiv, Year.
+
+---
 
 ## 📫 Contact
 
 <p align="center">
 
-**Email:** 25b912041@stu.hit.edu.cn  
+**Email:** YOUR_EMAIL  
 **Google Scholar:** [Publication profile](YOUR_GOOGLE_SCHOLAR_URL)  
 **ORCID:** [YOUR_ORCID_ID](YOUR_ORCID_URL)
 
@@ -166,4 +198,3 @@ transcriptomics using paired single-cell immune-repertoire data.
   />
 </p>
 ```
-
