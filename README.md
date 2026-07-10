@@ -29,12 +29,12 @@ I am a PHD student in **Harbin Institute of Technology**.My research focus on **
 ![Scanpy](https://img.shields.io/badge/-Scanpy-1A6D9B?style=flat-square&logo=python&logoColor=white)
 ![Scirpy](https://img.shields.io/badge/-Scirpy-7B2CBF?style=flat-square&logo=python&logoColor=white)
 ![Seurat](https://img.shields.io/badge/-Seurat-276DC3?style=flat-square&logo=r&logoColor=white)
-### 📐Mathematics and Physics
+### 📐Theory
 
 ![Optimal Transport](https://img.shields.io/badge/Mathematics-Optimal%20Transport-6A5ACD?style=flat-square)
-![Statistical Physics](https://img.shields.io/badge/Physics-Statistical%20Physics-6A5ACD?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-Causal%20Inference-6A5ACD?style=flat-square)
-![Statistics](https://img.shields.io/badge/Statistics-Bayesian%20Statistics-6A5ACD?style=flat-square)
+![Statistical Physics](https://img.shields.io/badge/Physics-Statistical%20Physics-1E88E5?style=flat-square)
+![Causal Inference](https://img.shields.io/badge/Statistics-Causal%20Inference-2E8B57?style=flat-square)
+![Bayesian Statistics](https://img.shields.io/badge/Statistics-Bayesian%20Statistics-2E8B57?style=flat-square)
 
 ### 💻Programming
 
@@ -50,4 +50,8 @@ I am a PHD student in **Harbin Institute of Technology**.My research focus on **
    
 2.Longfei Tang, Shutong Xiao, **Zhao He**, Lu Ba, Yashu Xu, Yuhui Feng, Yiyuan Guo, Xiaoran Shi, jing Qi. *GMSA: A Graph Matching and Point Cloud Registration-Based Method for Spatial Transcriptomics Data Alignment*.  **Journal of Computational Biology**  2026.[doi](https://doi.org/10.1177/15578666261462952)
 
+## 📫 Contact Me
+
+* 📧 Email: [25b912041@stu.hit.edu.cn](mailto:25b912041@stu.hit.edu.cn)
+* 💻 GitHub: [@Sawyer-HIT](https://github.com/Sawyer-HIT)
 
