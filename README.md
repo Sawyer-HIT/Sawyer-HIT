@@ -29,6 +29,7 @@ I am a PHD student in **Harbin Institute of Technology**.My research focus on **
 ![Scanpy](https://img.shields.io/badge/-Scanpy-1A6D9B?style=flat-square&logo=python&logoColor=white)
 ![Scirpy](https://img.shields.io/badge/-Scirpy-7B2CBF?style=flat-square&logo=python&logoColor=white)
 ![Seurat](https://img.shields.io/badge/-Seurat-276DC3?style=flat-square&logo=r&logoColor=white)
+![TCRdist3](https://img.shields.io/badge/-TCRdist3-276DC3?style=flat-square&logo=r&logoColor=white)
 ### 📐Theory
 
 ![Optimal Transport](https://img.shields.io/badge/Mathematics-Optimal%20Transport-6A5ACD?style=flat-square)
